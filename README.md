@@ -1,5 +1,5 @@
 
-# Tennis Analysis
+# AI-Powered Tennis Match Analysis
 
 ## Introduction
 This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills. 
@@ -14,8 +14,8 @@ Here is a screenshot from one of the output videos:
 * Fine Tuned YOLO for tennis ball detection
 * Court Key point extraction
 
-* Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
-* Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
+* Trained YOLOV5 model: https://drive.google.com/file/d/1cE0fplkHCsxSumEuVKG723i3fhZijHOv/view?usp=drive_link
+* Trained tennis court key point model: https://drive.google.com/file/d/13HTKGdVO3JMiEWlAzYBjwNWXIut2uEIa/view?usp=sharing
 
 ## Training
 * Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
